@@ -6,7 +6,8 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "description": ""
+    "description": "STIAA Platform Mobile App",
+    "githubUrl": "https://github.com/jamainrex/stiaaWebView"
   },
   "name": "STIAA APP"
 }
