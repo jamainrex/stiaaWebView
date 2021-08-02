@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "stiaaWebView",
-    "slug": "stiaaWebView",
+    "name": "STIAA APP",
+    "slug": "stiaa-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": ""
   },
-  "name": "stiaaWebView"
+  "name": "STIAA APP"
 }
